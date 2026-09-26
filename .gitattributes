@@ -1,0 +1,14 @@
+# See https://github.com/github/linguist
+*.min.js linguist-generated
+
+* text=auto
+*.yaml linguist-detectable=false
+public/*.html linguist-vendored
+*.png binary
+
+*.html linguist-vendored
+*.gif binary
+src/** linguist-detectable
+*.ico binary
+src/*.ts linguist-detectable
+*.map linguist-generated
