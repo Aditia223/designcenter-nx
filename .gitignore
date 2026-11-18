@@ -1,0 +1,6 @@
+dist/
+.next/
+.pnpm-store/
+build/
+.env.local
+coverage/
